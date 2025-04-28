@@ -65,4 +65,4 @@ Sinta-se livre para usar, copiar e modificar! 🚀
 
 ---
 
-> Desenvolvido com 💙 por [Seu Nome](https://github.com/seu-usuario)
+> Desenvolvido com 💙 por [Dioguinho-max](https://github.com/Dioguinho-max)
