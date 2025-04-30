@@ -29,7 +29,7 @@
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/crypto-dashboard.git
+   git clone https://github.com/Dioguinho-max/crypto-dashboard.git
    ```
 
 2. Acesse a pasta do projeto:
